@@ -1,0 +1,4 @@
+En términos sencillos, inteligencia artificial (IA) se refiere a los sistemas o las máquinas que imitan la inteligencia humana para realizar tareas y que tienen la capacidad de mejorar iterativamente a partir de la información que recopilan.
+¿Por qué es importante la inteligencia artificial? 
+La inteligencia artificial automatiza el aprendizaje y descubrimiento repetitivos a través de datos. ... 
+En lugar de automatizar tareas manuales, la inteligencia artificial realiza tareas computarizadas frecuentes de alto volumen de manera confiable y sin fatiga.
